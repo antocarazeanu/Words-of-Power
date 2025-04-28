@@ -18,16 +18,12 @@ Fallback: Dacă LLM nu răspunde corect sau răspunde greșit, se folosește San
 
 🚀 Cum rulezi proiectul?
 1. Instalează cerințele
-bash
-Copy
-Edit
 pip install torch transformers accelerate
-2. Rulează scriptul
-bash
-Copy
-Edit
+
+3. Rulează scriptul
 python words_of_power_simulation.py
-3. Introdu cuvintele
+
+5. Introdu cuvintele
 La fiecare rundă, ți se va cere să introduci un cuvânt ("cuvântul Sistemului").
 
 LLM-ul va răspunde cu alegerea sa optimă.
