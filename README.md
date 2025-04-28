@@ -63,9 +63,6 @@ Extinderea PlayerBeatsSystemMap pentru o acuratețe și strategie mai bune.
 Integrarea unui server local pentru a putea simula și meciuri remote.
 
 🔥 Exemplu de rulare
-plaintext
-Copy
-Edit
 --- Jucător (Simulat): LLM_Player_Guided_v2 ---
 --- Server: N/A (Mod Local - User este Sistemul) ---
 --- Runde: 10 ---
