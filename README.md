@@ -1,4 +1,5 @@
-# 🦙 Words of Power - Simulare Locală cu TinyLlama
+## 🦙 Words of Power - Simulare Locală cu TinyLlama
+
 Acest proiect implementează un jucător automat ("LLM Player") pentru jocul Words of Power, folosind modelul TinyLlama-1.1B-Chat-v1.0.
 LLM-ul (Large Language Model) alege strategic cel mai potrivit cuvânt pentru a contracara cuvântul introdus de utilizator, ghidat de o bază de date (PlayerBeatsSystemMap) sau, în lipsa acesteia, pe baza logicii generale.
 
